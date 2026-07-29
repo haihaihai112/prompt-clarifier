@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Clarifier"
+  short_description: "Turn rough requests into clear choices"
+  default_prompt: "Use $prompt-clarifier to turn my rough request into clear choices before doing the work."
