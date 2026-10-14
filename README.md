@@ -25,13 +25,13 @@ It helps Codex ask fewer but better questions, recommend sensible defaults, and 
 Install from GitHub with Codex's skill installer:
 
 ```bash
-python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo YOUR_GITHUB_USERNAME/prompt-clarifier --path skills/prompt-clarifier
+python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo haihaihai112/prompt-clarifier --path skills/prompt-clarifier
 ```
 
 On Windows, the script is usually here:
 
 ```powershell
-python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo YOUR_GITHUB_USERNAME/prompt-clarifier --path skills/prompt-clarifier
+python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo haihaihai112/prompt-clarifier --path skills/prompt-clarifier
 ```
 
 After installation, the skill is available on the next Codex turn.
@@ -81,3 +81,7 @@ The skill itself stays intentionally small. Codex skill bodies are loaded into t
 ## License
 
 MIT
+
+## 作品导航 / Project navigation
+
+[个人主页与完整项目索引 / Profile and project index](https://github.com/haihaihai112)
